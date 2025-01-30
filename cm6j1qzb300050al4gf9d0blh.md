@@ -1,8 +1,11 @@
 ---
 title: "Git - 在工作與私人專案中來回切換 SSH"
+seoTitle: "Git - 在工作與私人專案中來回切換 SSH"
+seoDescription: "將 SSH 分不同的帳號配置！"
 datePublished: Sat Jul 08 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6j1qzb300050al4gf9d0blh
 slug: ssh
+canonical: https://dotblogs.com.tw/explooosion/2023/07/08/164809
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738224098577/fa748821-fef7-4741-a606-fb21c9927d7f.png
 
 ---
