@@ -5,6 +5,7 @@ seoDescription: "只要有 substring 和 slice，就沒什麼好怕的。"
 datePublished: Fri Jan 31 2025 17:11:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm6l0u3pi000r09l7fx99dyfs
 slug: javascript-substr
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738343755739/0aba4711-f825-4d22-9e4b-4dfc44eccdfd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738343665058/d17634aa-f024-498d-9a8c-c9ba64d28afe.png
 tags: javascript, string, slice, substring
 
