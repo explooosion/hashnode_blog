@@ -6,7 +6,6 @@ datePublished: Fri Oct 08 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfg9a000409l83febb9sb
 slug: nginx-405-not-allowed-ft-cloudflare
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-10-08_Nginx%20-%20405%20not%20allowed%20ft.%20Cloudflare/banner/1633700292.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-10-08_Nginx%20-%20405%20not%20allowed%20ft.%20Cloudflare/banner/1633700292.png
 tags: nginx
 
 ---
