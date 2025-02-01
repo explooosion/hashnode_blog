@@ -6,7 +6,6 @@ datePublished: Fri Aug 31 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf8a0000809kw8qwnbst4
 slug: nodejs-nvm-is-not-compatible-with-the-npm-config-prefixmac
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-31_Node.js%20-%20nvm%20is%20not%20compatible%20with%20the%20npm%20config%20prefix%EF%BC%88Mac%20%EF%BC%89/banner/1535724044_88918.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-31_Node.js%20-%20nvm%20is%20not%20compatible%20with%20the%20npm%20config%20prefix%EF%BC%88Mac%20%EF%BC%89/banner/1535724044_88918.jpg
 tags: mac, yarn
 
 ---
