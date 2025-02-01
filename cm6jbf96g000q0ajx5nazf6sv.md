@@ -6,7 +6,6 @@ datePublished: Sun Sep 30 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf96g000q0ajx5nazf6sv
 slug: css-stylelint
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-09-30_CSS%20-%20%E9%81%8B%E7%94%A8%20Stylelint%20%E9%A4%8A%E6%88%90%E5%A5%BD%E7%BF%92%E6%85%A3/banner/1538286972_7387.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-09-30_CSS%20-%20%E9%81%8B%E7%94%A8%20Stylelint%20%E9%A4%8A%E6%88%90%E5%A5%BD%E7%BF%92%E6%85%A3/banner/1538286972_7387.jpg
 tags: css, scss, guide
 
 ---
