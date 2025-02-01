@@ -6,7 +6,6 @@ datePublished: Sat Jan 27 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbez3s000q0ajxfp33157v
 slug: nodejs-express-mongodb-socketio-1
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-01-27_Node.js%20-%20Express%20%2B%20MongoDB%20%2B%20Socket.IO%20(%E4%BB%A5%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%82%BA%E7%AF%84%E4%BE%8B)%20-%EF%BC%BB1%EF%BC%BD/banner/1517039486_46847.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-01-27_Node.js%20-%20Express%20%2B%20MongoDB%20%2B%20Socket.IO%20(%E4%BB%A5%E8%81%8A%E5%A4%A9%E5%AE%A4%E7%82%BA%E7%AF%84%E4%BE%8B)%20-%EF%BC%BB1%EF%BC%BD/banner/1517039486_46847.png
 tags: mongodb, ui
 
 ---
