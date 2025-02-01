@@ -6,7 +6,6 @@ datePublished: Sun Mar 25 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf2qa000g09lbee6t8cc9
 slug: electron
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-03-25_Electron%20-%20%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%20-%20%E5%81%9A%E4%B8%80%E5%80%8B%E9%AC%A7%E9%90%98%E5%90%A7/banner/1521965410_69325.gif
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-03-25_Electron%20-%20%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%20-%20%E5%81%9A%E4%B8%80%E5%80%8B%E9%AC%A7%E9%90%98%E5%90%A7/banner/1521965410_69325.gif
 tags: electron
 
 ---
