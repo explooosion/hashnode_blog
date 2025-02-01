@@ -6,7 +6,6 @@ datePublished: Fri Sep 06 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfaf7000i09lb9uzwbza6
 slug: github-cicd-actions-react-pages
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2019-09-06_Github%20-%20CICD%20%E4%BD%BF%E7%94%A8%20Actions%20%E4%BB%A5%20React%20%E5%BB%BA%E7%BD%AE%20pages%20%E7%82%BA%E4%BE%8B/banner/1567739924_33717.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2019-09-06_Github%20-%20CICD%20%E4%BD%BF%E7%94%A8%20Actions%20%E4%BB%A5%20React%20%E5%BB%BA%E7%BD%AE%20pages%20%E7%82%BA%E4%BE%8B/banner/1567739924_33717.png
 tags: github
 
 ---
