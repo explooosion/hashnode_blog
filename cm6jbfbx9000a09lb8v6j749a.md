@@ -6,7 +6,6 @@ datePublished: Mon Jan 20 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfbx9000a09lb8v6j749a
 slug: flutter-macos-vscode-android-ios
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-01-20_Flutter%20-%20%E5%9C%A8%20macOS%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20VSCODE%20%E5%90%8C%E6%99%82%E5%81%B5%E9%8C%AF%20Android%20%E5%92%8C%20iOS/banner/1579488535_77802.jpeg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-01-20_Flutter%20-%20%E5%9C%A8%20macOS%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20VSCODE%20%E5%90%8C%E6%99%82%E5%81%B5%E9%8C%AF%20Android%20%E5%92%8C%20iOS/banner/1579488535_77802.jpeg
 tags: debug, flutter, vscode
 
 ---
