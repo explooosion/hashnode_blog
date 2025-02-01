@@ -6,7 +6,6 @@ datePublished: Fri Oct 09 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfduj000p09l744g0gxqa
 slug: gcp-github-actions-react-cloud-run
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-10-09_GCP%20-%20%E4%BD%BF%E7%94%A8%20Github%20Actions%20%E9%83%A8%E7%BD%B2%20React%20%E5%88%B0%20Cloud%20Run/banner/1602243230.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-10-09_GCP%20-%20%E4%BD%BF%E7%94%A8%20Github%20Actions%20%E9%83%A8%E7%BD%B2%20React%20%E5%88%B0%20Cloud%20Run/banner/1602243230.png
 tags: cloud, docker, github, google, deploy
 
 ---
