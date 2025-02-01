@@ -6,7 +6,6 @@ datePublished: Sat Nov 10 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf9mo000r0ajx4tiycm2k
 slug: docker-mac-mssql
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-11-10_Docker%20-%20%E5%9C%A8%20Mac%20%E4%B8%8A%E5%AE%89%E8%A3%9D%20MSSQL%20%E7%9A%84%E6%90%96%E5%85%89%E5%90%A7%EF%BC%81/banner/1541917014_27525.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-11-10_Docker%20-%20%E5%9C%A8%20Mac%20%E4%B8%8A%E5%AE%89%E8%A3%9D%20MSSQL%20%E7%9A%84%E6%90%96%E5%85%89%E5%90%A7%EF%BC%81/banner/1541917014_27525.png
 tags: docker, images
 
 ---
