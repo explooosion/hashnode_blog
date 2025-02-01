@@ -6,7 +6,6 @@ datePublished: Sat Jul 18 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfdf1000y0ajxfvyleq4h
 slug: npm-missing-write-accessmac
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-07-18_NPM%20-%20%E8%A7%A3%E6%B1%BA%E5%A5%97%E4%BB%B6%E5%85%A8%E5%9F%9F%E5%AE%89%E8%A3%9D%E9%8C%AF%E8%AA%A4%20Missing%20write%20access%EF%BC%88Mac%20%EF%BC%89/banner/1595055493.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-07-18_NPM%20-%20%E8%A7%A3%E6%B1%BA%E5%A5%97%E4%BB%B6%E5%85%A8%E5%9F%9F%E5%AE%89%E8%A3%9D%E9%8C%AF%E8%AA%A4%20Missing%20write%20access%EF%BC%88Mac%20%EF%BC%89/banner/1595055493.png
 tags: npm, package
 
 ---
