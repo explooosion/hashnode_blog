@@ -6,7 +6,6 @@ datePublished: Fri Jun 05 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfcpv000s0ajx1xrjfibj
 slug: css-calc-cssscss-styled-components
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-06-05_CSS%20-%20calc%20%E7%B5%90%E5%90%88%E8%AE%8A%E6%95%B8%EF%BC%8C%E5%BE%9E%20CSS%E3%80%81SCSS%20%E5%96%87%E5%88%B0%20Styled%20Components/banner/1591286116.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-06-05_CSS%20-%20calc%20%E7%B5%90%E5%90%88%E8%AE%8A%E6%95%B8%EF%BC%8C%E5%BE%9E%20CSS%E3%80%81SCSS%20%E5%96%87%E5%88%B0%20Styled%20Components/banner/1591286116.png
 tags: css, styled-components
 
 ---
