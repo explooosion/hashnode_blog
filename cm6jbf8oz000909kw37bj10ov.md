@@ -6,7 +6,6 @@ datePublished: Sat Sep 15 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf8oz000909kw37bj10ov
 slug: docker-nodejs-expressmac
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-09-15_Docker%20-%20%E5%AE%B9%E5%99%A8%E5%8C%96%20Node.js%20express%EF%BC%88Mac%EF%BC%89/banner/1537008226_92291.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-09-15_Docker%20-%20%E5%AE%B9%E5%99%A8%E5%8C%96%20Node.js%20express%EF%BC%88Mac%EF%BC%89/banner/1537008226_92291.jpg
 tags: express, container, docker
 
 ---
