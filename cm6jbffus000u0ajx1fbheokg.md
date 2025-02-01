@@ -6,7 +6,6 @@ datePublished: Wed Sep 08 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbffus000u0ajx1fbheokg
 slug: gcp-verify-google-ssl-certificates
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-09-08_GCP%20-%20Verify%20Google%20SSL%20certificates/banner/1631111893.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-09-08_GCP%20-%20Verify%20Google%20SSL%20certificates/banner/1631111893.png
 tags: ssl, https, gcp
 
 ---
