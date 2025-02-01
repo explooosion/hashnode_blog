@@ -6,7 +6,6 @@ datePublished: Sat Oct 10 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfeaj000h09l1cnd64qak
 slug: gcp-github-actions-react-gke
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-10-10_GCP%20-%20%E4%BD%BF%E7%94%A8%20Github%20Actions%20%E9%83%A8%E7%BD%B2%20React%20%E5%88%B0%20GKE/banner/1602267554.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-10-10_GCP%20-%20%E4%BD%BF%E7%94%A8%20Github%20Actions%20%E9%83%A8%E7%BD%B2%20React%20%E5%88%B0%20GKE/banner/1602267554.png
 tags: docker, github, kubernetes, google, deploy, k8s
 
 ---
