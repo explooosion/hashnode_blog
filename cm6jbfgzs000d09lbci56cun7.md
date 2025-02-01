@@ -5,6 +5,7 @@ seoDescription: "關於 interface 的特性應用！"
 datePublished: Sat Jun 24 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfgzs000d09lbci56cun7
 slug: typescript-interface-pick-omit-partial-intersection-types
+canonical: https://dotblogs.com.tw/explooosion/2023/06/24/021757
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2023-06-24_TypeScript%20-%20%E5%9C%A8%20interface%20%E4%B8%AD%E7%90%86%E8%A7%A3%20Pick%2C%20Omit%2C%20Partial%2C%20Intersection%20Types/banner/1687544088.png.png
 tags: typescript
 
