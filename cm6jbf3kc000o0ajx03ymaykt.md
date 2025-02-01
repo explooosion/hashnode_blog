@@ -6,7 +6,6 @@ datePublished: Sat May 26 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf3kc000o0ajx03ymaykt
 slug: hyperapp
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-05-26_Hyperapp%20-%20%E9%BA%BB%E9%9B%80%E9%9B%96%E5%B0%8F%E4%BA%94%E8%87%9F%E4%BF%B1%E5%85%A8%E7%9A%84%E5%BE%AE%E5%9E%8B%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/banner/25238911.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-05-26_Hyperapp%20-%20%E9%BA%BB%E9%9B%80%E9%9B%96%E5%B0%8F%E4%BA%94%E8%87%9F%E4%BF%B1%E5%85%A8%E7%9A%84%E5%BE%AE%E5%9E%8B%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/banner/25238911.png
 tags: framework, webpack, es6
 
 ---
