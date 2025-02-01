@@ -6,7 +6,6 @@ datePublished: Sat Dec 12 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfep0000r09l72o0whw2q
 slug: vue-extend-vue-component-with-values-for-props-and-slots
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-12-12_Vue%20-%20Extend%20Vue%20component%20with%20values%20for%20props%20and%20slots/banner/1607715557.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-12-12_Vue%20-%20Extend%20Vue%20component%20with%20values%20for%20props%20and%20slots/banner/1607715557.jpg
 tags: functions, functional, template, vue, components
 
 ---
