@@ -6,7 +6,6 @@ datePublished: Tue Aug 28 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf7kd000w0ajx5iod3leg
 slug: react-native-could-not-install-the-app-on-the-device
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-28_React%20Native%20-%20Could%20not%20install%20the%20app%20on%20the%20device/banner/1535440186_05007.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-28_React%20Native%20-%20Could%20not%20install%20the%20app%20on%20the%20device/banner/1535440186_05007.png
 tags: android
 
 ---
