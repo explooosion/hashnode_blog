@@ -6,7 +6,6 @@ datePublished: Fri Feb 16 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf1jk000n09l54jdv3qvg
 slug: egret-texturemerger-gif
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-16_Egret%20-%20%E4%BD%BF%E7%94%A8%20TextureMerger%20%E6%8F%92%E5%85%A5GIF%E5%8B%95%E7%95%AB/banner/56b1715518628.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-16_Egret%20-%20%E4%BD%BF%E7%94%A8%20TextureMerger%20%E6%8F%92%E5%85%A5GIF%E5%8B%95%E7%95%AB/banner/56b1715518628.png
 tags: animation
 
 ---
