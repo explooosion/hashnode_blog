@@ -6,7 +6,6 @@ datePublished: Sat Feb 24 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf1wc000s0ajx0gzm9ueq
 slug: phaser-tilemaps-create-and-collision-1
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-24_Phaser%20-%20Tilemaps%20create%20and%20collision%20-%20%5B%201%20%5D/banner/1519459832_36077.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-24_Phaser%20-%20Tilemaps%20create%20and%20collision%20-%20%5B%201%20%5D/banner/1519459832_36077.png
 
 ---
 
