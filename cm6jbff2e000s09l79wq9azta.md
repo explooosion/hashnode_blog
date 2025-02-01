@@ -6,7 +6,6 @@ datePublished: Thu Mar 11 2021 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbff2e000s09l79wq9azta
 slug: git-windows-eol
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-03-11_Git%20-%20%E8%A2%AB%20Windows%20EOL%20%E6%90%9E%E5%88%B0%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3/banner/1615452125.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2021-03-11_Git%20-%20%E8%A2%AB%20Windows%20EOL%20%E6%90%9E%E5%88%B0%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3/banner/1615452125.png
 tags: git, windows, vscode
 
 ---
