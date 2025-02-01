@@ -6,7 +6,6 @@ datePublished: Sun Nov 25 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfa03000a09kw6yi4f9nl
 slug: rust-keep-it-silence
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-11-25_Rust%20-%20%E9%97%9C%E9%96%89%E8%AD%A6%E8%AA%9E%20%E5%97%A1%E5%97%A1%E5%97%A1%20Keep%20It%20Silence/banner/1543131514_31819.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-11-25_Rust%20-%20%E9%97%9C%E9%96%89%E8%AD%A6%E8%AA%9E%20%E5%97%A1%E5%97%A1%E5%97%A1%20Keep%20It%20Silence/banner/1543131514_31819.png
 tags: rust
 
 ---
