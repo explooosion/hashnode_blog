@@ -6,7 +6,6 @@ datePublished: Sat Jun 02 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf3zr000f09l1e4jzglot
 slug: reactjs-dva-sass
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-06-02_React.js%20-%20dva%20%E5%A4%9A%E9%BA%BC%E9%BA%BB%E7%85%A9%E7%9A%84%20sass%20%E5%BC%95%E5%85%A5%E6%AD%A5%E9%A9%9F/banner/1527926407_20427.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-06-02_React.js%20-%20dva%20%E5%A4%9A%E9%BA%BC%E9%BA%BB%E7%85%A9%E7%9A%84%20sass%20%E5%BC%95%E5%85%A5%E6%AD%A5%E9%A9%9F/banner/1527926407_20427.png
 tags: sass, scss
 
 ---
