@@ -6,7 +6,6 @@ datePublished: Thu Aug 09 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf6fg000h09lbd40u333w
 slug: git-fork-repository
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-09_Git%20-%20%E6%9B%B4%E6%96%B0%20fork%20%E5%87%BA%E4%BE%86%E7%9A%84%20repository/banner/1533753772_76441.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-09_Git%20-%20%E6%9B%B4%E6%96%B0%20fork%20%E5%87%BA%E4%BE%86%E7%9A%84%20repository/banner/1533753772_76441.png
 tags: remote, repository, github, git
 
 ---
