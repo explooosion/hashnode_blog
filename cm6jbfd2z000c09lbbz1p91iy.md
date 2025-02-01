@@ -6,7 +6,6 @@ datePublished: Tue Jul 14 2020 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfd2z000c09lbbz1p91iy
 slug: npm-deprecate-distribution-tags
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-07-14_NPM%20-%20%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E4%B9%8B%E6%A3%84%E7%94%A8%20deprecate%20%E8%88%87%E5%88%86%E9%85%8D%E6%A8%99%E7%B1%A4%20distribution%20tags/banner/1594727263.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2020-07-14_NPM%20-%20%E5%A5%97%E4%BB%B6%E7%AE%A1%E7%90%86%E4%B9%8B%E6%A3%84%E7%94%A8%20deprecate%20%E8%88%87%E5%88%86%E9%85%8D%E6%A8%99%E7%B1%A4%20distribution%20tags/banner/1594727263.png
 tags: package
 
 ---
