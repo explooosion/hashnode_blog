@@ -6,7 +6,6 @@ datePublished: Wed Apr 25 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf35m000t0ajx0q4f0kjt
 slug: npm-refusing-to-delete
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-04-25_NPM%20-%20%E7%84%A1%E6%B3%95%E6%9B%B4%E6%96%B0%E5%A5%97%E4%BB%B6%20Refusing%20to%20delete/banner/1524598695_45295.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-04-25_NPM%20-%20%E7%84%A1%E6%B3%95%E6%9B%B4%E6%96%B0%E5%A5%97%E4%BB%B6%20Refusing%20to%20delete/banner/1524598695_45295.jpg
 tags: npm
 
 ---
