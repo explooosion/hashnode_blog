@@ -6,7 +6,6 @@ datePublished: Mon Oct 28 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbfatj000609l86fhrcv8l
 slug: cloudflare-workers
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2019-10-28_Cloudflare%20-%20%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E9%82%8A%E7%B7%A3%E4%BD%A0%E7%9A%84%20Workers%20%E5%90%A7%EF%BC%81/banner/1572227963_93755.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2019-10-28_Cloudflare%20-%20%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E9%82%8A%E7%B7%A3%E4%BD%A0%E7%9A%84%20Workers%20%E5%90%A7%EF%BC%81/banner/1572227963_93755.png
 tags: cloudflare, serverless
 
 ---
