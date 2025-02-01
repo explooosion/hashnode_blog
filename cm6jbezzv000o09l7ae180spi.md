@@ -6,7 +6,6 @@ datePublished: Fri Feb 09 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbezzv000o09l7ae180spi
 slug: angular-invalid-host-header
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-09_Angular%20-%20Invalid%20Host%20Header%20%E5%AE%89%E5%85%A8%E6%80%A7%E8%99%95%E7%90%86/banner/34676503-61854b14-f463-11e7-8c0b-37399e9cdb5b.jpg
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-02-09_Angular%20-%20Invalid%20Host%20Header%20%E5%AE%89%E5%85%A8%E6%80%A7%E8%99%95%E7%90%86/banner/34676503-61854b14-f463-11e7-8c0b-37399e9cdb5b.jpg
 tags: angular, webpack
 
 ---
