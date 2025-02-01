@@ -6,7 +6,6 @@ datePublished: Sun Aug 12 2018 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6jbf71c000p09l5gpfy0qpz
 slug: react-native-2018-android-windows
 cover: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-12_React%20Native%20-%202018%20Android%20%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D%EF%BC%88Windows%20%EF%BC%89/banner/1534016090_40382.png
-ogImage: https://raw.githubusercontent.com/explooosion/blogs/refs/heads/main/docs/images/2018-08-12_React%20Native%20-%202018%20Android%20%E7%92%B0%E5%A2%83%E5%AE%89%E8%A3%9D%EF%BC%88Windows%20%EF%BC%89/banner/1534016090_40382.png
 tags: android, windows
 
 ---
