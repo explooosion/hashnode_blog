@@ -78,14 +78,6 @@ slice(indexStart, indexEnd)
 * 傳入的參數值是否為 ≥ 0？
     
 * 傳入的參數值是否為 負數？
-    
-<br />
-
-這篇就不特別寫出他們的特性了，筆者自己整理了一張表格…
-
-這個表格也許很蠢，但這在快速做出一個決策時，挺好用的…
-
-![](https://dotblogsfile.blob.core.windows.net/user/robby/55632cb1-c1cb-4932-8a8b-556c44b035c1/1721046883.png.png align="center")
 
 <br />
 
