@@ -259,7 +259,7 @@ export default function App() {
 *   簡單的靜態值，如 `useState(0)`、`useState(false)`。
 *   不影響效能的初始化（過度使用 Lazy Initialization 反而讓代碼變得難讀）。
 
-**Reference**
+**reference**
 -------------
 
 *   [react dev useState - avoiding-recreating-the-initial-state](https://react.dev/reference/react/useState#avoiding-recreating-the-initial-state)
